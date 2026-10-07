@@ -2,7 +2,7 @@ from supabase import create_client, Client
 
 # 請在此處替換你的 Supabase Project URL 與 anon/public Key
 SUPABASE_URL = "https://fghqufmbgbxlhnvseevx.supabase.co/"
-SUPABASE_KEY = "sb_secret_Ep6VBAUZ1lYnODa5vRFa9A_NmgyaMEg"
+SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZnaHF1Zm1iZ2J4bGhudnNlZXZ4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTEzNTU4MTQsImV4cCI6MjEwNjkzMTgxNH0.NlXiNTSXkKHOwfyw6eLiS1-v7w2HP1bywzhyfNYG_Bw"
 
 supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
 
