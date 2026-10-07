@@ -1,0 +1,15 @@
+[theme]
+# 品牌主色調：亮橘色 (Vibrant Orange)
+primaryColor = "#FF6B00"
+
+# 應用程式背景色：極致深灰
+backgroundColor = "#0D0F12"
+
+# 側邊欄與卡片背景色：暗炭灰
+secondaryBackgroundColor = "#161920"
+
+# 主要文字顏色
+textColor = "#F0F2F5"
+
+# 字體
+font = "sans serif"
